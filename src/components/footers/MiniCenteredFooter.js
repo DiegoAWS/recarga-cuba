@@ -38,13 +38,14 @@ export default () => {
             <LogoImg src={logo} />
             <LogoText>Recargas a Cuba</LogoText>
           </LogoContainer>
-          {/* <LinksContainer>
-            <Link href="#">Home</Link>
-            <Link href="#">About</Link>
+            <LinksContainer>
+            <h2>Director General</h2>
+            <Link href="#">Yandis Alfonso</Link>
+           {/*  <Link href="#">About</Link>
             <Link href="#">Contact Us</Link>
             <Link href="#">Blog</Link>
-            <Link href="#">Reviews</Link>
-          </LinksContainer> */}
+            <Link href="#">Reviews</Link>*/}
+          </LinksContainer> 
           <SocialLinksContainer>
             <SocialLink href="https://facebook.com">
               <FacebookIcon />
