@@ -33,7 +33,7 @@ export default ({
   description = "Si su duda no se encuentra aquí no dude en preguntar más abajo ",
   faqs = [
     {
-      question: "Su empresa recive envios solo de EEUU",
+      question: "Su empresa recibe envios solo de EEUU",
       answer:
         "No solamente. Actualmente procesamos envios de dinero del mundo entero, tenemos clientes desde Australia hasta Egipto o Perú, aunque es cierto que muchos de nuestros clientes están radicados en Estados Unidos de América"
     },
